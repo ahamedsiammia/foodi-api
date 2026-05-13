@@ -1,4 +1,4 @@
-## This is my first bacenk project with typesrcipt . This is siple and small backend project . 
+## This is my first backend project with typesrcipt . This is siple and small backend project . 
 ## Project featcher 
 ## create simple api like > 
 ## 1 . add order
